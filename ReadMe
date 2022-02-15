@@ -1,0 +1,18 @@
+# Open a terminal inside the folder containing Dockerfile and the other resource files.
+
+
+# Build the docker Image
+docker build -t webserver .
+
+#Run the docker Image
+docker run -it --rm -d -p 8080:80 --name web webserver
+
+
+
+#Commands for troubleshooting:
+
+##To get container ID
+docker ps
+
+## To login to the container
+docker exec -u 0 -it <container id> /bin/bash
