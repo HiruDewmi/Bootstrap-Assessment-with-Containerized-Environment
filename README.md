@@ -69,6 +69,6 @@ AI/ML Engineer | Researcher
 
 ---
 
-Would you like me to make a **slightly extended version** (with a short explanation of what Bootstrap components or web features you used — e.g., navbar, cards, form, etc.) so it looks more complete for your GitHub portfolio?
+*If you find this research insightful, please consider giving the repository a star on GitHub!*
 
 
